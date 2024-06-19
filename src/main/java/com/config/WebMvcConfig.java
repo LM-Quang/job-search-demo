@@ -67,8 +67,9 @@ public class WebMvcConfig implements WebMvcConfigurer {
         mailSender.setHost("smtp.office365.com");
         mailSender.setPort(587);
 
-        mailSender.setUsername("learningspring@outlook.com");
-        mailSender.setPassword("Practicing123");
+        // Put you Outlook and password here
+        mailSender.setUsername("");
+        mailSender.setPassword("");
 
         Properties props = mailSender.getJavaMailProperties();
         props.put("mail.transport.protocol", "smtp");
