@@ -1,0 +1,5 @@
+05-Nov-2023 23:47:27.399 INFO [main] org.apache.catalina.core.ApplicationContext.log 1 Spring WebApplicationInitializers detected on classpath
+05-Nov-2023 23:47:27.437 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring root WebApplicationContext
+05-Nov-2023 23:47:30.090 INFO [main] org.apache.catalina.core.ApplicationContext.log Initializing Spring DispatcherServlet 'spring-mvc'
+05-Nov-2023 23:48:04.023 INFO [Thread-5] org.apache.catalina.core.ApplicationContext.log Destroying Spring FrameworkServlet 'spring-mvc'
+05-Nov-2023 23:48:04.024 INFO [Thread-5] org.apache.catalina.core.ApplicationContext.log Closing Spring root WebApplicationContext
